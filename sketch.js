@@ -88,7 +88,7 @@ function draw() {
   drawSprites();
   //exibir pontuação
   textSize(25);
-  text("Score : "+ score,250,50);
+  text("Pontuação : "+ score,250,50);
 }
 
 
