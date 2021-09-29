@@ -15,7 +15,7 @@ function preload(){
   fruit2 = loadImage("fruit2.png");
   fruit3 = loadImage("fruit3.png");
   fruit4 = loadImage("fruit4.png");
-  gameOverImage = loadImage("gameover.png")
+  gameOverImage = loadImage("fimdeJogo.png")
   
   gameOverSound = loadSound("gameover.mp3")
   knifeSwooshSound = loadSound("knifeSwoosh.mp3")
