@@ -78,7 +78,7 @@ function draw() {
         
         //Mude a animação da espada para fim de jogo e redefina sua posição
         knife.addImage(gameOverImage);
-        knife.scale=2;
+        knife.scale=1;
         knife.x=300;
         knife.y=300;
       }
